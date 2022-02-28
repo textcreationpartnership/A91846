@@ -1,0 +1,608 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of the vanity of childish-baptisme: wherein the deficiency of the baptisme of the Church of England is considered in five particulars thereof. And wherein also is proved, that baptizing is dipping, and dipping baptizing. by A. R.</title>
+            <author>Ritor, Andrew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91846</idno>
+            <idno type="STC">Wing R1542</idno>
+            <idno type="STC">Thomason E152_4</idno>
+            <idno type="STC">ESTC R20692</idno>
+            <idno type="EEBO-CITATION">99866007</idno>
+            <idno type="PROQUEST">99866007</idno>
+            <idno type="VID">118266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118266)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E152[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of the vanity of childish-baptisme: wherein the deficiency of the baptisme of the Church of England is considered in five particulars thereof. And wherein also is proved, that baptizing is dipping, and dipping baptizing. by A. R.</title>
+                  <author>Ritor, Andrew.</author>
+               </titleStmt>
+               <extent>[6], 32 [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Andrew Ritor.</note>
+                  <note>Errata at end.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118266:1" rendition="simple:additions"/>
+            <p>A TREATISE OF THE VANITY OF CHILDISH-BAPTISME: WHEREIN The deficiency of the BAPTISME of the CHURCH of ENGLAND is conſidered in five particulars thereof.</p>
+            <p>
+               <hi>AND</hi> wherein alſo is proved, that <hi>Baptizing</hi> is Dipping, and Dipping <hi>Baptizing.</hi>
+            </p>
+            <p>
+               <hi>A. R.</hi>
+            </p>
+            <q>
+               <bibl>Proverbs 4. 25. 26, 27.</bibl>
+               <p>Let thine eyes looke right on, and let thine eye lids looke ſtraight before thee.</p>
+               <p>Ponder the path of thy feet; and let all thy waies be eſtabliſhed.</p>
+               <p>Turne not to the right hand nor to the left, remove thy foote from evill.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare, MDCXLII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118266:2"/>
+            <pb facs="tcp:118266:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving with moſt ſerious thoughts minded divers texts of Scripture, which doe evidently ſet out <hi>Bap<g ref="char:EOLhyphen"/>tiſme</hi> to be an undoubted pledge from God, to all the right Subjects to whom it is applyed, of the free Pardon and Remiſſion of all their Sinnes, <hi>Mar. 1. 4.</hi> and 16. 16. <hi>Acts 2. 3 8.</hi> and 22. 16. <hi>1 Pet. 3. 21.</hi> And finding alſo That <hi>Baptiſme</hi> is deſigned only to Beleevers, upon their making Profeſſion of Faith, and their willing ſubmiſſion thereunto, <hi>Mat. 28. 19. Ioh. 3. 22.</hi> compared with 4. 1, 2. <hi>Act. 2. 41.</hi> and 8. 12. 37, 38. and 18. 8. And ſeeing likewiſe that the right Subjects are not to be meerly paſſive, but are required, and did per<g ref="char:EOLhyphen"/>form therein ſuch duties as are incompatible to all Infants and perſons deſtitute of underſtand<g ref="char:EOLhyphen"/>ing, <hi>Mat. 3. 2. 6. Mar. 1. 5. Act. 22. 16. Gal. 3. 27. Col. 2. 12.</hi> compared with 3. 1. I could not with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:118266:3"/>
+unfaithfullneſſe to God and my owne Conſci<g ref="char:EOLhyphen"/>ence) but much ſuſpect the truth of the <hi>Baptiſme</hi> which I had in my Infancie, in the Church of <hi>England;</hi> whereupon I diligently tryed by all good waies and meanes for ſatisfaction in this point, yet found none: But the more I tryed, the more I ſtill ſaw the unwarrantableneſſe for the Bap<g ref="char:EOLhyphen"/>tizing of Infants, even by the invalidity and in<g ref="char:EOLhyphen"/>ſufficiencie of the very ſtrongeſt Arguments, which are and could be given by the beſt and ableſt mainteyners therof. Inſomuch, that at laſt I found it to be but only a meere deviſe and tra<g ref="char:EOLhyphen"/>dition of men, and brought into the world for politique and by ends, and accordingly yet con<g ref="char:EOLhyphen"/>tinued, and ſtill defended meerely by the ſubtilty of humane Arts and acuteneſſe of mans braine.</p>
+            <p>Wherefore, in diſcharge of my duty to Almigh<g ref="char:EOLhyphen"/>ty God, and to expreſſe my unfeined love to my Countrey men and lovers of Truth (for whoſe beſt welfare I count not my life deare) I am now imboldned (courteous Reader) to preſent theſe few lines to thy ſerious view, introating thee (as thou wilt anſwer it at the great day) herein to lay aſide all prejudice and partiality, duly to weigh all things, and to imbrace the naked Truth of God in the love thereof, and not to reſpect it as
+<pb facs="tcp:118266:3"/>
+it hath eſteeme in the world with variable men,<note place="margin">Luk. 21. 27. Iſa. 40. 5. 10. and 24. 23. and 25. 8. &amp; 28. 5. &amp; 30. 26. &amp; 31. 4. &amp; 66. 15. 16. 18.</note> but only as it hath been, is, and ever will be un<g ref="char:EOLhyphen"/>changeable in Jeſus Chriſt, who ſhortly will come and inlighten the Farth with his Glory, to the diſcovery of things hid in darkneſse, to the ma<g ref="char:EOLhyphen"/>king manifeſt the Counſells of mens hearts, and<note place="margin">1 Cor. 4. 5. Pſal. 72. 67. Iſa. 2. 20. 21. 2 Tim. 4. 8. Col. 3. 4.</note> to the praiſe and glory of all them that love his appearing; to whoſe Grace and direction I com<g ref="char:EOLhyphen"/>mend thee.</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>Thine <hi>A. R.</hi>
+               </signed>
+               <dateline>
+                  <date>March 25. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:118266:4"/>
+            <pb n="1" facs="tcp:118266:4"/>
+            <head>THE VANITY OF Childish-Baptisme, And of Sprinckling, or waſhing, any part of the Body, for <hi>Baptiſme;</hi> Briefly examined.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT <hi>Baptiſme</hi> is a great Ordinance of the New Teſtament, And that it is the duty of every true Beleever, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Diſciple of Jeſus Chriſt, to ſubmit thereunto, cannot be denyed: for Chriſt commands his Diſciples, <hi>Math. 28. 19. to goe and make Diſciples all Nations, Baptizing them,</hi> &amp;c. And <hi>Peter</hi> exhorts generally <hi>Acts 2. 38. Repent every one of you and be Baptized.</hi>
+            </p>
+            <p>But now the great Queſtion which moſt concerneth us is this: <hi>Whether that which is adminiſtred in the Church of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>for Baptiſme, be the Baptiſme of the New Teſtament or not?</hi> And herein we will briefly conſider theſe five particulars:</p>
+            <list>
+               <head>Baptiſme is there Adminiſtred.</head>
+               <item>1. <hi>The End for which</hi>
+               </item>
+               <item>2. <hi>The Manner in which</hi>
+               </item>
+               <item>3. <hi>The Power by which</hi>
+               </item>
+               <item>4. <hi>The Ground from which</hi>
+               </item>
+               <item>5. <hi>The Subject on which</hi>
+               </item>
+            </list>
+            <p>
+               <pb n="2" facs="tcp:118266:5"/>And Firſt, of the firſt, and ſo in order.</p>
+            <p>1. Firſt, <hi>The End for which Baptiſme is there adminiſtred,</hi> is to Regenerate the Infants there Baptized; as may appeare by the forme of <hi>Baptiſme</hi> ſet forth in their Lyturgie, when the Infants are preſented at the Font.</p>
+            <p>The Miniſter beſpeakes the Congregation thus, <hi>Foraſ<g ref="char:EOLhyphen"/>much as All men be conceived and borne in ſinne, and that our Saviour Chriſt ſaith, none can enter into the Kingdome of God except he be regenerated, and borne a new of water and the Holy Ghoſt: I beſeech you to call upon God the Father, through our Lord Ieſus Chriſt, that of his bountifull mercy he will grant to theſe Children, that thing which by nature they cannot have, that they may be Baptized with Water and the Holy Ghoſt.</hi>
+            </p>
+            <p>Then the Miniſter and People pray thus: <hi>We beſeech thee of thy infinite mercies, that thou wilt mercifully looke upon theſe Children, ſanctifie and waſh them with the holy Ghoſt, that they being delivered from thy wrath, may be received into the Arke of Chriſts Church, and being ſtedfaſt in faith, joyfull through hope, and rooted in Charity,</hi> &amp;c.</p>
+            <p>Againe, they pray thus, <hi>We call upon thee for theſe Infants, that they coming to thy Holy Baptiſme, may receive the remiſſion of their ſinnes by Spirituall Regeneration,</hi> &amp;c.</p>
+            <p>Againe, in the third Prayer thus: <hi>Give thy Holy Spirit to theſe Infants that they may be borne againe, and be made Heires of everlaſting ſalvation.</hi>
+            </p>
+            <p>After this the Miniſter having ſprinkled or caſt a little water on the Childrens faces, he openly forthwith (with<g ref="char:EOLhyphen"/>out bluſhing) ſaith, <hi>Now ſeeing that theſe Children be rege<g ref="char:EOLhyphen"/>nerate and grafted into the body of Chriſts Congregation;</hi> &amp;c.</p>
+            <p>And then exhorts the people to give thanks to GOD, for that it hath pleaſed him to regenerate the Infants with his Holy Spirit, and received them for his own Children by Adoption, <hi>&amp;c.</hi>
+            </p>
+            <p>And with all this agrees the Catechiſme, wherein the Children are appointed to be inſtructed, after they are growne to yeares of diſcretion; for to the Queſtion, <hi>Who gave you that name?</hi> they are to anſwere, <hi>My Godfathers
+<pb n="2" facs="tcp:118266:5"/>
+and Godmothers in my Baptiſme wherein I was made a member of Chriſt, a Child of God, and an inheritor of the Kingdome of Heaven.</hi>
+            </p>
+            <p>If any man queſtion the truth of this Doctrine, let him take notice of theſe few Authors, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtead of many more that I could alledge, which ſerve to juſtifie the ſame.</p>
+            <p>HIEROM ſaith, <hi>The ſpirit of God moved upon the waters,</hi>
+               <note place="margin">Adver. Luci<g ref="char:EOLhyphen"/>fer.</note> whence it is evident, that <hi>Baptiſme</hi> cannot be without the SPIRIT.</p>
+            <p>AUGUSTINE ſaith, <hi>That in Infants Baptized<g ref="char:punc">▪</g> the Holy</hi>
+               <note place="margin">Ep. 57. ad Dardanum.</note> 
+               <hi>Ghoſt doth dwell, although they be not aware of it.</hi>
+            </p>
+            <p>ZANCHIUS ſaith, <hi>not unfitly do the Fathers teach, that</hi>
+               <note place="margin">
+                  <hi>De Tri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. E<g ref="char:EOLhyphen"/>loh. Lib. 7. c.</hi> 1.</note> 
+               <hi>effect of the Holy Ghoſt upon the waters,</hi> which <hi>Moſes</hi> deſcri<g ref="char:EOLhyphen"/>beth <hi>Gen.</hi> 1. to be a reſemblance of that which the Holy Ghoſt performeth in the water of Baptiſme; for as there he reſted upon thoſe waters, that he might cheriſh and prepare them for the producing of living creatures, and for the Ge<g ref="char:EOLhyphen"/>neration of all things: So the Holy Ghoſt ſits upon the waters of <hi>Baptiſme,</hi> and ſits as it were abrood upon them, and bleſſeth them, and thence doth cheriſh, regenerate and animate the Elect, <hi>&amp;c.</hi>
+            </p>
+            <p>PETER MARTYR, <hi>In Infants, who by reaſon of their</hi>
+               <note place="margin">
+                  <hi>Loc. com. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>as. 4 Cap. 8. Sect.</hi> 2.</note> 
+               <hi>tender yeares cannot beleeve, the Holy Ghoſt ſupplieth the roome of Faith.</hi>
+            </p>
+            <p>AUGUSTINE cited by Biſhop JEVVELL, <hi>Def. ch.</hi> 11. ſaith, <hi>Infants have Faith of their own, becauſe they have Bap<g ref="char:EOLhyphen"/>tiſme, the Sacrament of Faith. For</hi> (ſaith he) <hi>as the Sacra<g ref="char:EOLhyphen"/>ment of Chriſts Body, after a certaine manner of Speech, is Chriſts body, ſo Baptiſme is Faith, becauſe it is the Sacrament of Faith.</hi>
+            </p>
+            <p>Dr. WHITAKER: <hi>Infants are purged by the Spirit,</hi>
+               <note place="margin">Treatiſe of the Sacraments.</note> 
+               <hi>ſeeing they are in the Church, and of the Church, Chriſt ſancti<g ref="char:EOLhyphen"/>fieth his Church.</hi>
+            </p>
+            <p>The end for which Infants are Baptized in the Church of <hi>England,</hi> is to regenerate them, and that they may be borne a new, and accordingly it is concluded in the Catechiſme, and confirmed by all theſe Authors, and divers others well
+<pb n="3" facs="tcp:118266:6"/>
+knowne to our Miniſters, the maintainers of this doctrine, <hi>That in Baptiſme they receive the Holy Spirit, that they are rege<g ref="char:EOLhyphen"/>nerate and borne a new, that they are made the members of Chriſt, the child<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en of</hi> God, <hi>and heires of the Kingdome of Heaven.</hi>
+            </p>
+            <p>In anſwere to all which, I ſhall ſay nothing, but only rea<g ref="char:EOLhyphen"/>ſon this with ſome other of their own principles, and pra<g ref="char:EOLhyphen"/>ctiſe, and thereby I doubt not, but it will appeare to all, how unfaithfully they have, and do delude the Nations in this particular.</p>
+            <p>They are regenerate and borne againe in Baptiſme, they are then made the members of Chriſt, the Children of God, and inheritors of the Kingdome of Heaven. <hi>Why then they are all ſaved;</hi> No not ſo, for the Miniſters twenty yeares after, (if the Children live ſo long) preach R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>generation, Repentance, and converſion to them, and tell them, that they muſt then be regenerate and borne againe, or elſe they cannot enter into the Kingdome of God, for <hi>without holyneſſe no man can ſee the Lord. Why, but what needs this? were they regenerate and borne againe in their Infancy, when they were Bap<g ref="char:EOLhyphen"/>tized? and muſt they yet be regenerate and born again the ſecond time, or have they loſt their firſt generation &amp; new birth? and of the children of God and members of</hi> Chriſt, <hi>become the l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbs of Satan, and children of the Divell?</hi> No not ſo neither, for the Miniſters of the Church of <hi>England,</hi> both have &amp; will defend and maintain, the Doctrin of perſeverance in the Regenerate, and members of Chriſt, both againſt <hi>Pelagians, Arminians,</hi> and <hi>Papiſts,</hi> or whoſoever elſe ſhall oppoſe or queſtion the ſame; <hi>What then, were they in their Baptiſme, regenerate and borne againe, made the members of</hi> Chriſt, <hi>and children of</hi> God, &amp;c. <hi>and have they not, nor can they not fall away from that eſtate, and yet ſhall they not be ſaved? will</hi> God <hi>loſe his children, or</hi> Chriſt <hi>his members, doth not</hi> Chriſt <hi>ſay,</hi> except a man be regenerate and borne againe, he cannot enter into the Kingdome of God, <hi>Ioh.</hi> 3. 5. thereby aſſuring us, that if a man be regenerate and borne againe, he ſhall en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er into the Kingdome of Heaven.</p>
+            <p>Here now theſe theſe learned Divines are at as great a ſtraight
+<pb n="4" facs="tcp:118266:6"/>
+to defend their propoſition, and to avoyd the Arminians, and others conſequents, that will neceſſarily follow there<g ref="char:EOLhyphen"/>upon, as their predeceſſors, the Prieſts and Elders, were to juſtifie themſelves, in their rejecting of the counſell of God, <hi>Luke</hi> 7. 30. When Chriſt demanded of them, whether the Baptiſme of <hi>Iohn</hi> was from heaven, or of men, <hi>Mat.</hi> 21, 25. And therefore in all likelyhood, they thus reaſon and debate the matter amongſt themſelves. If we ſhould ſay, that Infants are not regenerate and borne againe in Bap<g ref="char:EOLhyphen"/>tiſme, then our adverſaries the <hi>Anabaptiſts</hi> (as we uſe to terme them) will ſay, that then our forme of Baptizing of Infants before laid down, together with the Teſtimonies of our learned Fathers, (to whom both in this point, and di<g ref="char:EOLhyphen"/>vers other, we are more beholding, then either to Chriſt himſelfe, or to any of his Apoſtles) are nothing but meere conceits of mans fooliſh braine, firſt invented to make all the world wonder after the Beaſt, which otherwiſe never had, nor poſſibly could have bin brought to paſſe, beſides this, we our ſelves ſhall be found falſe witneſſes of God, and falſe Prophets to the people, in pronouncing before God and them, and bearing them in hand all the time of our raigne over them, even unto this day, that God hath re<g ref="char:EOLhyphen"/>generate and begotten againe their Infants in Baptiſme, when there is no ſuch matter; yea and how impudent and audacious ſhall we be judged to be, in that we have ſolem<g ref="char:EOLhyphen"/>ly given thanks to God for regenerating their Infants in Baptiſme, requiring the people alſo to joyne with us there<g ref="char:EOLhyphen"/>in, exhorting them not to doubt, but confidently beleeve the truth thereof. If now we ſhould acknowledge, that they are not regenerate and borne againe therein: Moreover if we ſhould grant, that Infants are not regenerate and born againe in Baptiſme, then it will follow, that our Church hath a falſe conſtitution, not being conſtituted of Chriſtians, be<g ref="char:EOLhyphen"/>leevers, Diſciples, Sonnes and Daughters of God, but con<g ref="char:EOLhyphen"/>trariwiſe of perſons borne in ſinne, dead in treſpaſſes and ſinnes, the children of wrath, even of ſuch perſons, as we declare Infants to be before we Baptize them; and then
+<pb n="5" facs="tcp:118266:7"/>
+our own definition of a true viſible Church, in the 19 Arti<g ref="char:EOLhyphen"/>cle, (where it is ſaid, <hi>that every true viſible Church, conſiſteth of beleeving men and women</hi>) will riſe up againſt us, and declare us not to be the true Church of Chriſt. Againe on the other ſide, if we ſhall ſtand to it and maintaine, that they are Re<g ref="char:EOLhyphen"/>generate and borne againe in <hi>Baptiſme;</hi> then firſt it will follow, that the greateſt part of our preaching might very well be ſpared; for the whole Nation are regenerate and borne againe before we preach at all unto them (namely in their <hi>Baptiſme</hi>) And alſo ſecondly it will follow, that we con<g ref="char:EOLhyphen"/>vert none by our Miniſtry; and then the Seale and marke of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Miniſtry, whereby we uſe to prove the ſame true againſt the <hi>Browniſts,</hi> will utterly faile us. And thirdly, we ſhall juſtly be impeached, as abbettors of that Popiſh Tenet, that Sacraments convey Grace, <hi>Exopere operato,</hi> by the worke done. And laſt of all, it will undeniably follow, as the Ar<g ref="char:EOLhyphen"/>minians uſe ſtrongly to inferre againſtus, from this ground: <hi>That either the whole Nation is ſaved, or that the Children of God and members of Chriſt, perſons regenerate and borne againe, may finally fall away and be damned.</hi> Now Sirs, by this craft yee know we have our wealth, <hi>Acts</hi> 19, 25. we muſt there<g ref="char:EOLhyphen"/>fore of neceſſity here Sophiſticate the matter by ſome diſtinction, though never ſo abſurd, to bleere the eyes of the Nation, and ſtop the Clamors of thoſe that thus perſue us, to whom if we ſay nothing, but let them alone, in ſhort time, as it is ſaid of the <hi>Samaritans</hi> Act. 8. 10. when <hi>Philip</hi> preached the Lord Jeſus Chriſt unto them, that all the peo<g ref="char:EOLhyphen"/>ple from the leaſt unto the greateſt, will give eare unto them, and then our Kingdom is at an end, for which purpoſe ſome of them have improved their skill, and thinking to ſilence the controverſie, as it is here ſtated; thus to diſtinguiſh, nei<g ref="char:EOLhyphen"/>ther abſolutly affirming, that they are regenerate in Bap<g ref="char:EOLhyphen"/>tiſme, nor granting that they are not, but that they are in the charity of the Church only ſo eſteemed; neither are any re<g ref="char:EOLhyphen"/>quired to beleeve them to be regenerate, as an Article of their Faith, but in the judgement of charity.</p>
+            <p>In anſwere to which, I deſire them to informe me in the
+<pb n="6" facs="tcp:118266:7"/>
+ground of this their charity: for if it hath no ground in the word of God, which is the rule of charity; It cannot be termed charity, but folly and preſumption, ſo to beleeve; like unto that of the wicked, who beleeve they ſhall have peace, when as there is no peace to them, <hi>Iſa.</hi> 48. 22. for hath God any where in his word ſpoken, or Chriſt promi<g ref="char:EOLhyphen"/>ſed, or the Apoſtles taught, that hee will give his Spirit to Infants, to regenerate them in Baptiſme? ſurely not a word: no more then he hath ſaid, that he will deſtroy them in hell: Therefore as it would be raſh and cenſorious for any to judge they ſhall be damned, in regard the Lord hath no where ſo declared; ſo on the otherſide, it muſt needs be great folly, madneſſe and preſumption, for any to beleeve their Regene<g ref="char:EOLhyphen"/>ration in Baptiſme; foraſmuch as the Lord hath no where ſo promiſed: Therefore for ſhame leave off this kinde of jugling, and give glory to God, in acknowledgeing the truth, and then with me you will ſay, <hi>It is no more the charity of your Church to beleeve thus, but the preſumption, yea the craft and ſubtiltie of the Prelates and Prieſt hood of your Church, for their bellies ſake, thus to delude and ſeduce the people.</hi>
+            </p>
+            <p>But it after all this, they ſhall object and ſay, <hi>That Infants</hi>
+               <note place="margin">Object.</note> 
+               <hi>are elected and therefore may be Baptized.</hi>
+            </p>
+            <p>To that I anſwere, that all Infants are not elected, and ther<g ref="char:EOLhyphen"/>fore<note place="margin">Anſw.</note> all Infants ought not to be <hi>Baptiſed.</hi>
+            </p>
+            <p>But they will reply, <hi>That in regard ſome Infants are elected,</hi>
+               <note place="margin">Object.</note> 
+               <hi>and none can ſay that this or that particular Infant is not ele<g ref="char:EOLhyphen"/>cted, therefore Baptiſme muſt, be adminiſtred to all, becauſe we may not denie the elect their priviledges, for feare of giving to others, that which belongs not to them.</hi>
+            </p>
+            <p>To this I anſwere, That if it be a warrantable ground, for<note place="margin">Anſw.</note> us to adminiſter <hi>Baptiſme</hi> to all Inſants, becauſe that ſome particular Infants are elected, then by the ſame reaſon it will follow, That <hi>Baptiſme</hi> may lawfully be adminiſtred to every man and woman in the world, becauſe amongſt them alſo, we may judge that ſome <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e elected: But this contra<g ref="char:EOLhyphen"/>dicteth the order and rule of Chriſt, laid downe in the com<g ref="char:EOLhyphen"/>miſſion, <hi>Matth.</hi> 28. 19. where he ſaith, <hi>G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e teach all Nati<g ref="char:EOLhyphen"/>ons,
+<pb n="7" facs="tcp:118266:8"/>
+and Baptiſe them:</hi> and Mark 16. 16. <hi>He that beleeveth and is Baptiſed ſhall be ſaved: firſt teach them, (that is,</hi> make them Diſciples, or beleevers.) and then Baptiſe them, and not before. Therefore this reaſon brought for the Baptizing of all infants, becauſe that ſome infants are elected, muſt be ranked amongſt other of their Sophiſmes, before de<g ref="char:EOLhyphen"/>tected.</p>
+            <p>2. This being granted (which is not true) <hi>that Baptiſme is to be adminiſtred upon the elect before they manifeſt faith,</hi> then except we could know the elect from thoſe that are not ele<g ref="char:EOLhyphen"/>cted we ought to adminiſter it to none at all, for we may in noe caſe do evill, that good may come thereon, <hi>Rom</hi> 3. 8.</p>
+            <p>Therefore whenſoever the Lord commandeth us a duty, or for biddeth us any evill, he alwaies preſcribeth unto us ſome rules, that in the obſervation thereof, we may anſwere <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im in what he requireth of us, and never for want of in<g ref="char:EOLhyphen"/>ſtructions, leaves us in ſuch ſtraites, that we cannot obey him in one, but of neceſſity we muſt offend him in the other; And therefore we ſee when he commandeth us, in <hi>Mat. 7. 15. to ſhun and beware of falſe Prophets,</hi> he preſently directeth us how to know them from his true Miniſters, whom hee requireth us very highly to love and eſteeme. 1 <hi>Theſſa.</hi> 5. 12, 13. And ſo likewiſe doth he in point of <hi>Baptiſme,</hi> not only command the duty, but alſo appoints the perſons whom he would have <hi>Baptized, Mat.</hi> 28. 19. elſe he would come farre ſhort of <hi>Moſes,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> faithfull in all Gods houſe, <hi>Numb.</hi> 12. 7. but Chriſt was as faithfull as <hi>Moſes, Heb.</hi> 3. 2. Therfore this objection which granteth, that the Lord inten<g ref="char:EOLhyphen"/>deth his <hi>Baptiſme</hi> only for the elect, and yet layeth an abſo<g ref="char:EOLhyphen"/>lute neceſſitie to adminiſter it to all others to whom he in<g ref="char:EOLhyphen"/>tendeth it not, is moſt vaine and frivolous, and therefore to be rejected of all.</p>
+            <p>And were it poſſible for us to know and diſtinguiſh the elect from the other, as it is not, yet I would faine ſee theſe profound Clarks make it appeare by the authority of the Scripture, that they might lawfully upon that ground only adminiſter <hi>Baptiſme</hi> unto them: I denie it utterly, and af<g ref="char:EOLhyphen"/>firme
+<pb n="8" facs="tcp:118266:8"/>
+that its true faith only manifeſted and made knowne by confeſſion with the mouth that gives the elect admiſſion to Baptiſme, <hi>Act. 8. 37. Rom.</hi> 14. 23. And thus this ob<g ref="char:EOLhyphen"/>jection is vaniſhed away: and ſo I ſhall proceed to the ſe<g ref="char:EOLhyphen"/>cond particular.</p>
+            <p>The manner in which Baptiſme is there adminiſtred,<note place="margin">2.</note> which is by ſprinckling or caſting a little water upon the head or face of the child <hi>Baptiſed;</hi> wherein they ſhew them<g ref="char:EOLhyphen"/>ſelves, as contrary to Chriſt, as in the former particular, for<g ref="char:EOLhyphen"/>aſmuch as the inſtitution of Chriſt requireth that the whole man be dipped all ever in water.</p>
+            <p>For the manner of the uſe of water in <hi>Baptiſme,</hi> muſt be either by infuſion, or by dipping.</p>
+            <p>But <hi>Iohn</hi> the <hi>Baptiſt</hi> or dipper, according to the <hi>Dutch</hi> Verſion, did uſe the water, by putting the party in the wa<g ref="char:EOLhyphen"/>ter, and not by infuſing or ſprinkling water upon the party, as is proved, <hi>Mat. 3, 11. Ego men baptiz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humas en hudati,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> I indeed Baptize you in water, <hi>Mark. 1. 8. ego men ebaptisa humas en hudat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> I indeed have Baptized you in water, alſo <hi>Iohn. 1. 26. Acts</hi> 11. 16. All theſe poin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Baptiſme</hi> in water, but not a <hi>Baptiſme</hi> with water.</p>
+            <p>
+               <hi>Obj.</hi> But the word (<hi>En</hi>) doth ſomtimes ſignifie (with) as in <hi>Rev. 19, 21. Kai Hoi Loipo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> apecteatheſan en teromiraia.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Never after this word <hi>Baptize</hi> which ſignifies to dip, for if it ſhould, then it would be no ſenſe, to ſay, <hi>dip with water,</hi> Therefore either the word <hi>Baptizo</hi> muſt ſignify to ſprinkle, or elſe the word <hi>En</hi> muſt not ſignifie (with) but the word <hi>Baptizo</hi> doth ſignifie to dip, <hi>Ergo</hi> the word <hi>En</hi> muſt ſigni<g ref="char:EOLhyphen"/>fie (in) and not (with) as is proved very clearely, and deni<g ref="char:EOLhyphen"/>ed by none, who are not ignorant of the language; for the Greeke Authors account <hi>bapto</hi> and <hi>baptizo</hi> to ſignifie that for which the Latines uſe <hi>mergere, immergere, (tingere immer<g ref="char:EOLhyphen"/>gendo</hi>) (that is to ſay) to d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p, to plunge, to douſe over head or under water; As is proved by Chriſts own baptiſme, Mar 1. 9. <hi>kai ebaaptiſt he hupo Ioannon eis ton Jordane<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> he was baptized of John into the Jordan: but it is not the water of Jordan was put upon him, as in ſprinkling, the wa<g ref="char:EOLhyphen"/>ter
+<pb n="9" facs="tcp:118266:9"/>
+is put upon the party. And by <hi>Plut. Lib. de Superſt: ver<g ref="char:EOLhyphen"/>bis utitur, Baptison ſeauton bis Thalaſſan,</hi> baptiſe thy ſelfe<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> into the Sea, which if <hi>bapto</hi> or <hi>baptizo</hi> ſignifie to ſprinkle, is to be Engliſhed, ſprinkle thy ſelfe into the Sea, and <hi>Lu.</hi> 1. 9. he was ſprinkled of <hi>John</hi> into the Jordan, but that is very falſe and without all ſenſe, and therefore without all diſ<g ref="char:EOLhyphen"/>pute: therefore the word <hi>En</hi> (as uſed after this word <hi>baptizo</hi>) muſt ſignifie, in, and not with.</p>
+            <p>Furthermore your Tranſlators themſelves, (as is to bee ſeene openly) give it to Dip, <hi>Mat. 26, 23. O embapſas,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> he that dippeth, <hi>Mark 14. 20. O embaptomenos</hi> that dip<g ref="char:EOLhyphen"/>peth <hi>Luke 16. 24. hinabapſe</hi> that he may dip, <hi>Ioh. 13. 26. ho ego bapſas.</hi> to whom when I have dipped, <hi>Rev. 19. 13. Himation bebamenon,</hi> dipt; unleſſe they will make a different ſignification of <hi>baptizo</hi> from <hi>bapto,</hi> which they can never do, either cut of the Greeke Authors, or the Scriptures written by the Apoſtles in that language, but <hi>Mar. 7. 4. Baptiſmous Poteri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, lotiones peculorum Ben: Ar. Montan:</hi> the ſtrict<g ref="char:EOLhyphen"/>eſt Tranſlator makes <hi>Lotiones Poculorum,</hi> that is, the waſh<g ref="char:EOLhyphen"/>ing of cups not the ſprinkling of cups, for the waſhing of cups is a putting of the cups into the water, and not a put<g ref="char:EOLhyphen"/>ting or infuſing water upon the cups: Therefore it is very plaine, that the uſe of the water in baptiſme, was not ſprink<g ref="char:EOLhyphen"/>ling the Subject with water, or as I may ſay, an impoſing of water upon the Subject to be baptized, but a putting or de<g ref="char:EOLhyphen"/>merſion of the Subject into the water.</p>
+            <p>The truth of this will further appeare from the conſide<g ref="char:EOLhyphen"/>ration of theſe Scriptures, <hi>Ioh.</hi> 3. 23. It is ſaid of <hi>Iohn, that</hi> he baptized in <hi>Aenon</hi> beſide <hi>Salim,</hi> becauſe there were many waters there, that is much deepe or great water, as <hi>Rev.</hi> 1. 15. which reaſon of the Spirit of God, (becauſe there were many waters there) ſhould be rendred in vaine, if a little water had bin ſufficient for <hi>Iohn</hi> to have baptized the people withall; for we know that any little Font as you uſe, would have yeelded him water enough to have taken thereof by handfulls to have ſprinkled the whole world withall, but there were manie waters, not waters only.</p>
+            <p>
+               <pb n="11" facs="tcp:118266:9"/>Againe, <hi>Acts</hi> 8. 38 39. It is ſaid of <hi>Philip</hi> and the <hi>Eu<g ref="char:EOLhyphen"/>nuch,</hi> that they went downe both of them into the water, which they would not have done, if waſhing or ſprinkling of the face had bin the appointment of the Lord, and would have ſerved the turne: it was alſo ſaid of <hi>Chriſt,</hi> That hee was baptized or dipped by <hi>John, Matth. 3. 16. Mar.</hi> 1. 10. and that he came out of the water, which implies his going in the water, which had bin likewiſe needleſſe, if ſprink<g ref="char:EOLhyphen"/>ling would have ſerved. And in <hi>Colo. 2. 12. buried with him in Baptiſme, wherein you are alſo riſen with him</hi> &amp;c.</p>
+            <p>Againe, <hi>Rom</hi> 6. 4. 5. it is ſaid, <hi>we are buried with him by Baptiſme into his death.</hi> And if we have bin planted together in the likeneſſe of his death, we ſhall alſo in the likeneſſe of his Reſurrection. And in 1 <hi>Cor.</hi> 15. 29. Saint <hi>Paul</hi> amongſt other arguments to prove the Reſurrection hath theſe words, <hi>what ſhall they doe which are Baptized for dead, if the dead riſe not at all? why them are they Baptized for dead?</hi>
+            </p>
+            <p>Now let any man that is not quite fallen out with his rea<g ref="char:EOLhyphen"/>ſon, judge, whether waſhing or ſprinkling the face with water, or dipping the whole man into water, and riſing again out of the water, doth anſwere all theſe Texts of Scripture: he muſt needs conclude, that dipping the whole man into water, doth anſwere them all, and ſprinkling or waſhing without dipping not at all, for what ſimilitude hath ſprink<g ref="char:EOLhyphen"/>ling with death, burying, riſing againe? none at all, but dip<g ref="char:EOLhyphen"/>ping is a full reſemblance of all, and holds out unto us our profeſſion, ſelfe-deniall, and our forſaking of all for Chriſts ſake, without which we cannot be his Diſciples, <hi>Luk.</hi> 14. 26, 33.</p>
+            <p>Now then if we well conſider theſe Texts, we ſhall finde that they uſed the water by putting the party into the wa<g ref="char:EOLhyphen"/>ter, that is, dipping him, and not by putting, infuſing, or ſprinkling (which are all one) the water upon the party.</p>
+            <p>Therefore dipping, and not ſprinkling or waſhing with<g ref="char:EOLhyphen"/>out dipping, muſt needs be the truth of that inſtitution, and the proper ſenſe of the Holy Ghoſt in the Scripture dialect.</p>
+            <p>For as a learned and approved Author hath noted, the
+<pb n="12" facs="tcp:118266:10"/>
+Greeke wants not words to expreſſe any other act, aſwell as <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pping: If the inſtitution could beare it, <hi>Caſaub.</hi> upon <hi>Mat.</hi> 3. 11. for the Greeke to ſprinkle, is <hi>rantizo:</hi> much <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> human<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> authority, both ancient and moderne, might be pro<g ref="char:EOLhyphen"/>duced herein, all which would be needleſſe, ſeeing the Scripture it ſelfe is ſo cleere in the point, as is before alrea<g ref="char:EOLhyphen"/>dy declared.</p>
+            <p>Nor can it be proved, That Baptiſme was adminiſtred any other way, then by dipping, for at leaſt a thouſand yeares after Chriſt.</p>
+            <p>To conclude then this point: if to <hi>Baptiſe</hi> be to dip, (as is proved) then whoſoever is not dipped, is not <hi>Baptized,</hi> and he that is only ſprinkled, or hath water only impoſed upon him, is not dipped, whence this conſequence cleare<g ref="char:EOLhyphen"/>ly reſults.</p>
+            <p>That all thoſe that have the adminiſtration of <hi>Baptiſme,</hi> either by ſprinkling or by any waſhing without dipping, have not the <hi>Baptiſme</hi> of the <hi>New-teſtament,</hi> and by conſe<g ref="char:EOLhyphen"/>quence are un-baptized perſons. <hi>Repent yee therefore and be Baptized every one of you, into the name of the Lord Ieſus, for the remiſſion of ſinnes,</hi> Acts 2. 38. <hi>And now why tarrieſt thou? ariſe and be Baptized, and waſh away thy ſinnes, calling on the name of the Lord,</hi> Acts 22. 16.</p>
+            <p>
+               <hi>For rebellion is as the ſinne of witch-craft, and ſtubbornneſſe as iniquity and Idolatry,</hi> 1 Sam. 15. 23.</p>
+            <p>Thirdly, The power, authority, and office of the miniſtry,<note place="margin">3.</note> by which it is there adminiſtred, is received from the <hi>Biſh<g ref="char:EOLhyphen"/>ops,</hi> who received their power from the Antichriſtian State of <hi>Rome:</hi> That the <hi>Biſhops</hi> received their power from <hi>Rome</hi> is manifeſt, and alſo confeſſed by themſelves, in their book of <hi>Ordination,</hi> dedicated to Arch-Biſhop <hi>Abbot,</hi> by <hi>Francis Maſon,</hi> and printed by authority <hi>Anno Dom. 1613. Lib. 1. cap. 2. fol.</hi> 11. That this is ſo, and that the office of the mi<g ref="char:EOLhyphen"/>niſtry there exerciſed, is received from the <hi>Biſhop,</hi> is a thing moſt evidently knowne, whereupon it muſt needs follow, that ſeeing the power and authority, whereby <hi>Baptiſme</hi> is there adminiſtred, is not from Chriſt, but from an Antichri<g ref="char:EOLhyphen"/>ſtian
+<pb n="13" facs="tcp:118266:10"/>
+Hierarchie; that the Baptiſme it ſelfe is not from <hi>Chriſt</hi> but from Antichriſt likewiſe.</p>
+            <p>The <hi>Nonconformiſts</hi> themſelves teach us thus to reaſon, for although they approve the <hi>Baptiſme</hi> of Infants, when it is adminiſtred by themſelves, of their brethren, yet the baptiſme adminiſtred by the midwife, as it was appointed in the book of Common-prayer, that they repute to be nothing but a meer prophaning of the name of the Lord, <hi>Why ſo?</hi> did not the mid-wife baptiſe a right Subject? (to wit) an Infant with a right Element? namely, with water in a right manner? <hi>viz</hi> by ſprinkling water on the face of the Child to a right end (that is to ſay) to regenerate the Infant, and al this in the name (at leaſt as they conceive) and to the ſervice of the bleſ<g ref="char:EOLhyphen"/>ſed Trinity. Now ſeeing that in all this, the mid-wife was as right as any of them<g ref="char:punc">▪</g> why ſhould not the baptiſme ad<g ref="char:EOLhyphen"/>miniſtred by the mid-wife, be as warrantable and good, as if it were adminiſtred by any of them? Moreover, was not the mid-wife a Diſciple and a member of the Church, aſwell as they? yea, and had ſhe not as lawfull and as true a calling to that Office as any of them? for did not the <hi>Biſhop</hi> ordaine her thereunto in one caſe, aſwell as authorize them in any other caſe? yet all this availeth nothing with theſe men, to prove this to be the Baptiſme of <hi>Chriſt;</hi> and the reaſon muſt needs be this, (for there can be no other rendred by them) becauſe the Lord Jeſus Chriſt hath no where in his word ordained and appointed any women to adminiſter his <hi>Baptiſme;</hi> Nor no more hath he any where in his word, au<g ref="char:EOLhyphen"/>thorized any men by any falſe power, to adminiſter his bap<g ref="char:EOLhyphen"/>tiſme. And therefore as the former were none of Chriſts Ordinance, but a humane invention, and for that cauſe by King JAMES juſtly rejected: no more is the latter any of Chriſts <hi>Baptiſme,</hi> but one of Antichriſts ſtrong deluſions, 2 <hi>Theſſal.</hi> 2. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and which with him ſhall one day goe to perdition. The truth of this is ſeene in all Civill States, wherin when the Ordinances of the ſame are adminiſtred by ſuch perſons as the King or State hath aſſigned thereun<g ref="char:EOLhyphen"/>to, then are they to be reputed and eſteemed as the Ordi<g ref="char:EOLhyphen"/>nances
+<pb n="14" facs="tcp:118266:11"/>
+of the State: but if a ſtranger or any other perſon then ſuch whom the King or State hath ſo authorized, ſhall attempt to do any ſuch action, let him do it never ſo much like to that which is done by authority, (as ſome have bin found too skilfull therein) yet notwithſtanding he is but a counterfeit, and no better then a Traytor, againſt the King and S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate. Apply we this to the preſent caſe: the Lord Jeſus Chriſt the King of Saints, hath inſtituted and given to his Kingdome (which is his Church) divers ordinances for the well being thereof, and amongſt the reſt, this Ordinance of baptiſme, and for the adminiſtration thereof, he hath given rules and precepts to his Church for the authorizing ſuch and ſuch perſons to adminiſter the ſame. Now when any ſuch perſon, ſo authorized, ſhall dip a beleever in water <hi>in the Name of the Father Sonne and holy Spirit,</hi> This is to be eſtee<g ref="char:EOLhyphen"/>med and reputed the baptiſme of Chriſt; but when a ſtran<g ref="char:EOLhyphen"/>ger to the common-wealth of <hi>Iſrael,</hi> by a falſe power ſhall performe any ſuch action, let him doe it never ſo much like, and in reſemblance to that which is done by the power and authority of the Lord Jeſus Chriſt, given unto his Church, yet this is but a forgery or a counterfait baptiſme, and none of the baptiſme of Chriſt.</p>
+            <p>That ſuch counterfeits ſhould appeare in the world for the oppoſing of the truth, and deceiving of the people, the Lord long ſince by the Apoſtle foretold, 2 <hi>Tim. 3. 9. As Iannes and Iambres</hi> (ſaith he) to wit, the Magicians and Sor<g ref="char:EOLhyphen"/>cerers of <hi>Egypt</hi>) withſtood <hi>Moſes,</hi> ſo ſhall theſe withſtand the truth: Now <hi>Iannes</hi> and <hi>Iambres</hi> withſtood <hi>Moſes</hi> no otherwiſe then by their arts, counterfaiting and reſembling the ſignes and miracles which <hi>Moſes</hi> and <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ron</hi> by the power of God wrought before <hi>Pharaoh,</hi> for as <hi>Moſes</hi> caſt downe his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od and it became a Serpent, <hi>Exod.</hi> 7. 10. ſo likewiſe the Magicians and Sorcerers caſt down every man his rod, and they became Serpents: alſo ver. 11. 12. <hi>And Pharaohs heart was hardened:</hi> juſt thus deales Antichriſts Miniſters, who by the Spirit and power of Antichriſt reſemble and
+<pb n="15" facs="tcp:118266:11"/>
+counterfait, and thereby reſiſt and oppoſe the Baptiſme of Chriſt in the hands and miniſtry of his Servants, whereby the hearts and mindes of the people are hardned and pre<g ref="char:EOLhyphen"/>judiced againſt the ſame, but as the Magicians Serpent was not the Ordinance of God, though like unto the ſame; No more is Antichriſts Baptiſme the Baptiſme of Chriſt, though never ſo much like thereunto. And although notwithſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd<g ref="char:EOLhyphen"/>ing by this their jugling and counterfaiting, they may for a ſeaſon d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lude the people, and harden their hearts ag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt the Lord and his truth, as the Magicians and Sorcerers did <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> yet ſaith the Apoſtle, <hi>they ſhall prevaile no further (Mo<g ref="char:EOLhyphen"/>ſes</hi> his Serpent devoured the Magicians) <hi>for their folly ſhall be made manifeſt to all men, as theirs alſo was, 2 Tim.</hi> 3. 9.</p>
+            <p>
+               <hi>Object.</hi> If any object, <hi>That though they received the Office of Miniſtry from the Biſhops, yet they received it from them as Elders, and not as they were Lord Biſhops.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If the Biſhops be lawfull Elders, they muſt be Elders choſen by a true Church, which is a Congregation conſtituted of Beleevers and Saints by calling, <hi>Act. 2. 41. 1 Cor. 1. 2. Phil. 1. 7. Rom.</hi> 1. 7. 8. As the nineteenth Ar<g ref="char:EOLhyphen"/>ticle of the doctrine of the Church of <hi>England</hi> doth alſo wit<g ref="char:EOLhyphen"/>nes, whichſaith, <hi>The viſible Church of Chriſt, is a Congregation of faithfull men &amp;c.</hi> now let them ſhew where or when ſuch a Church, made either the Biſhops or any of our Prieſts, to be Miniſters or Elders by Election, as the Scriptures doth teſtifie to be done, in every Church, <hi>Act.</hi> 14. 23. And as the entrance of all ordinary Offices (of which we ſpeake) of neceſſitic preſuppoſeth a Church, by whoſe election they are to enter, ſo their continuance requireth a Church, wher<g ref="char:EOLhyphen"/>in as in a Subject they are to ſubſiſt, and to which they muſt miniſter: but the unlawfulneſſe of the calling of the Mini<g ref="char:EOLhyphen"/>ſtry of the Church of <hi>England</hi> in all theſe reſpects, is ac<g ref="char:EOLhyphen"/>knowledged by many of themſelves, who have therefore forſaken and caſt off their miniſtry, there received of the Bi<g ref="char:EOLhyphen"/>ſhops, and departed the land, and became as Lay-men, untill they were authorized a new by the Election and appoint<g ref="char:EOLhyphen"/>ment of ſuch a Congregation, as they conceived to be a true
+<pb n="16" facs="tcp:118266:12"/>
+Church: And theſe were no whit inferior (but for moſt<g ref="char:EOLhyphen"/>part did farre exceed) any of their fellowes, which they left behind them, either in learning, wiſdome, or godlineſſe, or in any other parts or guifts: Nor did theſe men judge that inward qualifications make a Miniſter, (as ſome vainely im<g ref="char:EOLhyphen"/>agine) but only makes him fit to be choſen into Office by the Church; for if gifts or qualifications were a call to the Miniſtry, then ſhould Judges, Counſellors, Lawyers, and others in the Land, be reputed to be Miniſters, becauſe many of theſe have abilities, to be Miniſters, yet not called of God to be Miniſters, no more then an able Citizen, is called to be the Major of the Citie, by his abilities without his being lawfully choſen, and placed into that Office by the Citizens, and therefore qualification is no ſuch inward call of God, as is dreamt of; for the call and choice of the Church of <hi>Chriſt,</hi> by the authority given unto it by <hi>Chriſt,</hi> is now the only or<g ref="char:EOLhyphen"/>dinary true call of God to this Office and Miniſtry, and yet not debarring the exerciſe of any other mans gifts, either within or without the Church.</p>
+            <p>
+               <hi>Object.</hi> But ſome may object, <hi>That ſurely theſe Miniſters iſſued not from the Biſhops: for if they did, then would they plead for their authority and not againſt it, as moſt of our good Mini<g ref="char:EOLhyphen"/>ſters now doe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Surely theſe iſſued from the Biſhops; for if they did not, then would they have pleaded againſt their autho<g ref="char:EOLhyphen"/>rity, and not for it, as moſt of our good Miniſters did but two yeares agone: and therefore ſeeing that their authority was unlawfull then as now, and theſe Miniſters the very ſame men, and as learned, wiſe and Godly then as now, and the Goſpell the ſame eternall and unchangeable Truth, then as now, whence then cometh this great change in theſe great Clerks, but only from the change of the times, as the reaſonable motion doth informe us; wherefore it is moſt reaſonable for all men to be no longer deluded, by relying and tying their Faith upon the judgements of theſe or any other men in the world, nor upon ought elſe, ſave only up<g ref="char:EOLhyphen"/>on the naked truth of Gods word, ſeene and apprehended by
+<pb n="17" facs="tcp:118266:12"/>
+their own eyes, and judgements, and not by others, nor to follow any man, not <hi>Paul</hi> himſelfe, any further then they or he follow <hi>Chriſt,</hi> but to accompt all the holieſt men upon earth, &amp; holyeſt Angels in heaven to be accurſed, if they teach any thing to be beleeved or practiſed in the worſhip of God, but that which may clearely be proved by the word of God; or if they go about to detain the in any falſe way of worſhip, or debar them from trying all things, conducing to their fin<g ref="char:EOLhyphen"/>ding out of the truth, or enjoying the juſt liberty, purchaſed them by <hi>Ieſus Chriſt, 1 Cor. 7. 23. 1 Pet. 1. 18. Gala.</hi> 5. 1.</p>
+            <p>If it be objected, <hi>that they being no Maſſe-Prieſts are not</hi>
+               <note place="margin">Object.</note> 
+               <hi>Antichriſtian:</hi>
+            </p>
+            <p>I anſwer, they have the ſame Office as Maſſe-prieſts,<note place="margin">Anſw.</note> though reformed in many things; and this both the do<g ref="char:EOLhyphen"/>ctrine and practiſe of the <hi>Church</hi> of <hi>England,</hi> pleading for ſucceſſion from <hi>Rome,</hi> (as the Booke of <hi>Ordination and place,</hi> formerly quoted, doth evidently confirme<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>). All the Maſſe<g ref="char:EOLhyphen"/>prieſts in Queene <hi>Maries</hi> dayes, for that purpoſe, were up<g ref="char:EOLhyphen"/>on their ſubmitting to the <hi>Service booke,</hi> continued Mini<g ref="char:EOLhyphen"/>ſters in their ſeverall Congregations in Queene <hi>Elizabeths</hi> dayes, by vertue of their former Ordination, and ſo are ſuch Maſſe-prieſts at this day, although Ordained at <hi>Rome,</hi> recei<g ref="char:EOLhyphen"/>ved and continued in the <hi>Church</hi> of <hi>England</hi> upon the afore<g ref="char:EOLhyphen"/>ſaid conditions, without any new Ordination. And ſeeing it is their own conſtant affirmation, that Ordination (as they terme it) makes a Miniſter, it muſt follow, that no new O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dination, no new Miniſter; but they remaine ſtill the old Maſſe-prieſts, only reformed from that kinde of Maſſing, and therefore Antichriſtian.</p>
+            <p>
+               <hi>But all are not ſo made Miniſters, becauſe ſome are choſen by</hi>
+               <note place="margin">Object.</note> 
+               <hi>the pariſh Aſſemblies.</hi>
+            </p>
+            <p n="1">1. There be very few ſo choſen.<note place="margin">Anſw.</note>
+            </p>
+            <p n="2">2. The Pariſh Aſſemblies are not ſuch <hi>Churches</hi> to whom the power of <hi>Chriſt</hi> is committed, <hi>Acts 2. 41. 44, 47. 1 Cor. 1. 2, Rom. 1. 7, 8. Philip.</hi> 1. 7.</p>
+            <p n="3">3. Theſe are Miniſters before the choyce, and after their leaving the Pariſh, nor can the Pariſh chooſe any, but ſuch
+<pb n="18" facs="tcp:118266:13"/>
+as are Miniſters ordained by the Biſhops, and are not there<g ref="char:EOLhyphen"/>fore made Miniſters by their choyce.</p>
+            <p>Object. <hi>But theſe ſeeke that all Epiſcopall power and Anti<g ref="char:EOLhyphen"/>chriſtian Lording it over the Faith and conſciences of any might be utterly taken away &amp; that none other of like natur might be ſet up to compell men to any forme of worſhip preſcribed by the va<g ref="char:EOLhyphen"/>riable Lawes and precepts of men, but that the juſt liberty of conſcience herein, might be enjoyed, and that the ſole authority and inſallible rule of leſus Chriſt, already ſet up, and eſtabliſhed by his own blood might take place.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That this is their intentions, is too good to be true, and too true I feare to be thought good by them: But is not this rather their aymes, they having bin long kept in ſervi<g ref="char:EOLhyphen"/>tude and bondage under their Fathers, and now deſiring a freedome, would only (like undutifull Sonnes) be rid of their Fathers, that they might divide the Inheritance and dominion amongſt themſelves, and to ſet out the ſame pow<g ref="char:EOLhyphen"/>er in nature, only in another edition and character.</p>
+            <p>Object. <hi>But ought not we, being Lay-men and unlearned, beleeve our learned and Godly Divines, and relie upon their judgements in divine matters and worſhip, before our own pri<g ref="char:EOLhyphen"/>vate opinions?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> We are herein neither to relie upon our own private opinions, nor upon the judgements of all the moſt Godly man in the world, no not though they ſhould all concurre in one, but only upon Gods word alone: and this I will prove firſt by Scripture, ſecondly, by the Doctrine of the Church of <hi>England,</hi> Thirdly, by reaſon.</p>
+            <p>Firſt by Scripture, we are not to relie upon men for our bodily, much leſſe for our ſpirituall ſafety; he is pronoun<g ref="char:EOLhyphen"/>ced bleſſed that truſteth only in God, <hi>Ier.</hi> 17. 5. and curſed, that puts truſt in man, <hi>ver.</hi> 7. It is the Saints practiſe and duty, to truſt only in God, <hi>Pſal.</hi> 62. 7, 8. we are comman<g ref="char:EOLhyphen"/>ded to beleeve God, and blamed if we do not, <hi>Joh.</hi> 4. 21. &amp; 8. 45, 46. And in reſpect of divine matters, no man upon Earth is to be called Father Maſter or Doctor, but Chriſt only, and our Father which is in Heaven, <hi>Mat.</hi> 23, 8, 9, 10.
+<pb n="19" facs="tcp:118266:13"/>
+Herein are we not to be ſervants to any into, or men 1 <hi>Cor.</hi> 7. 23. but to ſerve God only, <hi>Mat.</hi> 4. 10. And herein are we not to feare any man, no not the wrath of Princes, <hi>Mat. 10. 28. Heb. 11. 26, 27. Dan. 3. 16, 17, 18.</hi>
+            </p>
+            <p>Secondly, by the Doctrine of the Church of <hi>England,</hi> who<note place="margin">2.</note> will not aſſume any ſuch authority over the faith of any man, as to tie him to beleeve or practiſe any thing in Reli<g ref="char:EOLhyphen"/>gion, upon her credit, or upon the credit of any man or men in the world, in aſmuch as ſhe hath declared expreſſely in the 21 Article of her Doctrine. That generall Counſells (even theſe) in things ordained by them, as neceſſary to ſalvation, have neither ſtrength nor authority, unleſſe it may be declared that they be taken out of the Scripture. Now then if no generall Counſell (which is accounted to repre<g ref="char:EOLhyphen"/>ſent the whole Church upon earth) hath any ſuch power, then no Nationall <hi>Synod,</hi> of what ſort ſoever, hath any ſuch power: and if neither of theſe, then much leſſe a Covoca<g ref="char:EOLhyphen"/>tion of Prieſts hath any, ſeeing our late experience yet prompts us of a monſtrous iſſue, produced by that Genera<g ref="char:EOLhyphen"/>tion, ſoil ſavoured and unſevoury, that the corruption ther<g ref="char:EOLhyphen"/>of might ſoone have poyſoned our whole Land, if by the mercy of our good God, the wiſdome of our State had not ſoone ſtrangled that birth.</p>
+            <p>
+               <hi>Object. Rut a Nationall Synod might be choſen of learned god<g ref="char:EOLhyphen"/>ly Divines that may do better, and preſeribe ſuch a forme of wor<g ref="char:EOLhyphen"/>ſhip ſo agreeable to Gods word, that no mans conſcience may be offended.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They can no more do this, then make one laaſt ſerve every mans foote; beſides, God only can and already hath preſcribed rules in his word for his own worſhip, ſo abſo<g ref="char:EOLhyphen"/>lute and perfect, that none may adde or diminiſh, or vary from it in the leaſt, without incurring eternall Piagues, &amp; bringing down judgements upon themſelves, <hi>Deut. 4. 2. 12. 32. Ioſh. 1. 7. 8. Pro. 30. 5, 6. Rev. 22. 18, 19. Gal. 3. 15.</hi>
+            </p>
+            <p>Firſt, Becauſe all men, knowing but in part, have erred,<note place="margin">3 <hi>by Reaſe</hi>
+               </note> may erre; and the reaſon is further rendred in the 21 Ar<g ref="char:EOLhyphen"/>ticle
+<pb n="20" facs="tcp:118266:14"/>
+of the Church of <hi>England,</hi> which ſaith even of generall Councells thus, <hi>That for aſmuch as they be an Aſſembly of men whereof all are not governed by the Spirit and ward of God, they may erre, and have erred even in things appertayning to God.</hi>
+            </p>
+            <p>Becauſe we can be ſaved only by our own Faith, and that<note place="margin">Reaſon 2.</note> grounded upon the word and truth of God alone, apprehen<g ref="char:EOLhyphen"/>ded and ſeene by our own judgements, and not by any others, nor built upon the Teſtimony of any man or men, for all ſuch can produce (no divine) but a humane Faith, and which like the houſe built upon the Sands, <hi>Matth.</hi> 7. 26, 27. will at laſt utterly faile us.</p>
+            <p>
+               <hi>All this, theſe men know to be true, and therefore it cannot be</hi>
+               <note place="margin">Object.</note> 
+               <hi>thought, that they ſeeke to have any ſuch unlawfull power, or having it would uſe it ſo unlawfully, as to compell any in matters of Faith or worſhip, knowing what the Spirit of God ſaith, That</hi> the ſervant of the Lord muſt not ſtrive, but be gentle to<g ref="char:EOLhyphen"/>wards all men, apt to teach, patient in meekneſſe, inſtruct<g ref="char:EOLhyphen"/>ing thoſe that oppoſe themſelves, if God at any time will give them repentance. That they might acknowledge the truth. 2 <hi>Tim.</hi> 2. 24, 25, 26.</p>
+            <p>That theſe men will prove perſecutors, as I will not ac<g ref="char:EOLhyphen"/>cuſe<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſw.</note> them all, ſo yet conceiving that no unlawfull power can ſupport it ſelfe, but by unlawfull meanes, I cannot but ſuſpect the beſt of them in this caſe, eſpecially diſcerning the malignant Spirits of ſome already this way breaking out like little ſparks from a great flame, againſt ſuch as concurre not in judgement with them, as is evident by their revilings both in Pulpits and private, for the attaining of which ray<g ref="char:EOLhyphen"/>ling Rhetorick, they needed not to have ſpent much time in the Vniverſities, ſeeing herein they might become ſuffi<g ref="char:EOLhyphen"/>cient Graduates, by converſing but a while at <hi>Billings-gate</hi> amongſt the eloquent <hi>Oyſter-women</hi> there, to whom for an<g ref="char:EOLhyphen"/>ſwere to all ſuch their Arguments, I wholly referre them. And alſo diſcerning their murmurings and complaints againſt ſome, for their exerciſing among themſelves, edify<g ref="char:EOLhyphen"/>ing one another out of Gods word, according both to their liberties and duties, they being but Lay-men (as they call
+<pb n="21" facs="tcp:118266:14"/>
+them) and without orders, as if they feared leaſt truth ſhould too ſoone breake forth and ſhake their buildings in the very Foundation thereof; and as if they thought the Spirit of God was only at a Biſhops diſpoſe, to blow when, where, and upon whom he pleaſed to breath his Holy Ghoſt: and hence hope they, that ſome fiery Law will ſpeedily come down from the heavens and <hi>Hemiſpheere</hi> of our te<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rene Gods at once to devour all theſe their adverſaties, not conſidering of what ſpirit they are, ſo different from that in <hi>Moſes,</hi> which wiſhed, that <hi>all the Lords people were Prophets, and that the Lord would put his spirit upon them,</hi> Numb. 11. 49. And ſo quite contrary to that ſweet and bleſſed Spirit of Chriſt which breathes in the Scriptures, and which there alſo tells us of an Antichriſtian Spirit, that ſhould both raign and rage in the world, make warre with the Saints, and pre<g ref="char:EOLhyphen"/>vaile againſt them, yea to the overcoming and killing of them: And wherefore is all this? only for not conform<g ref="char:EOLhyphen"/>ing themſelves to a worſhip, meerely ſet up by the wills and traditions of men, <hi>Rev. 13. 4.</hi> to the 16. <hi>Dan.</hi> 7. 21, 25.</p>
+            <p>And now leaſt I ſhould be thought to ſhoote at Rovers, I will inſtance in one particular and late carriage of a learn<g ref="char:EOLhyphen"/>ed Divine (as they would be ſtiled) in the <hi>Weſt,</hi> who frequenting the company of ſtrangers part of three daies together, under pretence of unfained love and friendſhip, and then and there reaſoning with them upon certaine points of Religion, wherein they and he differed in judge<g ref="char:EOLhyphen"/>ment, did afterward take leave of them, and pretended to be ſorry he could ſtay no longer with them, and immediatly haſted and raiſed moſt ſoule and falſe accuſations againſt them, as being <hi>Blaſphemers, Hereticks,</hi> and what not? and did in fine procure them to be apprehended by Conſtables,<note place="margin">
+                  <hi>Behold here a true Sonne of a</hi> Butcher. <hi>a</hi> Bonner. <hi>a</hi> Biſhop. <hi>Ioh.</hi> 8. 40. 44.</note> and brought publiquely like Thiefe's before the civill Magi<g ref="char:EOLhyphen"/>ſtrate, and this Prieſt being there ready on the bench, as if he would be both accuſer and judge, lay's theſe his falſe accuſations againſt them; all which not taking ſuch effect as he deſired, he then inſtigated the Magiſtrate (after their
+<pb n="22" facs="tcp:118266:15"/>
+taking the oath of Allegiance) to put them alſo to the Oath of Supremacy, which the Magiſtrate (contrary to Law, meerly to ſatisfie the will and pleaſure of this Prieſt) did, which oath they ſcrupling to take, deſired ſome time to conſider of that (as duty bindes them) they might give to <hi>Ceſar the things which are Ceſars, and to God the things which are Gods:</hi> wherupon being committed, and to be carried to to the J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yle, they were conſtrained with ſureties to be b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d over, and are yet to be proſecuted accordingly.</p>
+            <p>Now faine would I know, whether this be any meet Spirituall weapon for this Spirituall mans uſe, to convert men by, and whether this Sword was ever intended to lie ready in the Magiſtrates hands, to be drawne forth and be diſpoſed of by ſuch a Scholaſticke <hi>Ignora<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us,</hi> in defect of better Arguments to confute his oppoſites by, and therewith to kill and Skinne them, and all for not ſubjecting their judgements to his, in ſome doctrines vainely received and taught by him, from the vaine traditions of men, and in par<g ref="char:EOLhyphen"/>ticular, for their not granting with him, <hi>that the God head of Chriſt was begotten;</hi> which for any to affirme, (as I con<g ref="char:EOLhyphen"/>ceive) is no leſſe then gr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe Blaſphemie, inaſmuch as there<g ref="char:EOLhyphen"/>by he denieth the Lord Jeſus Chriſt to be verie true God. And is not here extreme ignorance and malice manifeſtly ſtriving to exceed each other in this Prieſt. And as if all this were not enough, he, with the reſt of his fellow Miniſters there, to quit their ſtandings, (the lawfulneſſe whereof be<g ref="char:EOLhyphen"/>ing juſtly queſtioned) doe neither ſpare, pittifully to abuſe Scripture, nor yet ceaſe unchriſtianlike, upon all occa<g ref="char:EOLhyphen"/>ſions, to callumniate, and publiquely to vent, moſt falſe aſperſions againſt them, and that alſo with ſuch vio<g ref="char:EOLhyphen"/>lence and rage, which would much better beſeeme Beares robbed of their whelps, then reaſonable creatures; and all this to uphold the great honour and authority which they have unduly got amongſt many; by all which it evidently appeares, what muſt be looked for at their hands, if once their Preſbyterian Tribunall were errected: But leaving theſe to be accounted with by God and their own conſci<g ref="char:EOLhyphen"/>ence,
+<pb n="23" facs="tcp:118266:15"/>
+I will now proceed.</p>
+            <p>Fourthly, The ground from which Baptiſme is there ad<g ref="char:EOLhyphen"/>miniſtred, is the Repentance and Faith of the ſureties, as is evident alſo by the <hi>Catechiſme,</hi> where theſe Queſtions and Anſweres be made.</p>
+            <p>Queſt. <hi>What is required of perſons to be Baptized?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Repentance, whereby they forſake ſinne; and Faith, whereby they ſtedfaſtly beleeve the promiſes of God made to them in that Sacrament.</p>
+            <p>Queſt. <hi>Why then are Infants Baptized, when by reaſon of their tender agethey cannot performe them.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Yes they doe performe them by their ſureties, <hi>&amp;c.</hi> And like hereunto in the adminiſtration of <hi>Baptiſme,</hi> theſe Queſtions are demanded of the Sureties.</p>
+            <list>
+               <item>1. <hi>Doſt thou forſake the Divell and all his works?</hi> &amp;c.</item>
+               <item>2. <hi>Doſt thou beleeve in God?</hi> &amp;c.</item>
+               <item>3. <hi>Wilt thou be Baptized in this Faith?</hi>
+               </item>
+            </list>
+            <p>To which three queſtions, each of the Sureties in parti<g ref="char:EOLhyphen"/>cular make anſwere in the ſingular number, perſonating the Child to be Baptized, and then they Baptize the Child.</p>
+            <p>Now firſt to affirme, that Faith and Repentance is requi<g ref="char:EOLhyphen"/>red of perſons to be Baptized, and then conratriwiſe to af<g ref="char:EOLhyphen"/>firme, <hi>that Children deſtitute of Faith and Repentance, may be Baptized upon the Faith and Repentance of others,</hi> is a flat con<g ref="char:EOLhyphen"/>tradiction, and the latter affirmation is all one, as if they ſhould ſay, <hi>that a perſon deſtitute of Faith, may be ſaved by the Faith of another,</hi> for that which gives any man a right ad<g ref="char:EOLhyphen"/>miſſion to the Baptiſme of Chriſt, gives him admiſſion into life eternall, and glory, and therefore if Children may be Baptized upon the repentance and Faith of others, they may alſo be ſaved the Faith and Repentance of others. <hi>If thou beleeveſt with all thy heart, thou maiſt be Baptized,</hi> Act. 8. 37. <hi>He that beleeveth and is Baptized, ſhall be ſaved,</hi> Mar. 16. 16. Therefore this Doctrine being directly repugnant to the Scriptures, muſt be rejected, as impious. <hi>Ezck. 18. 20. The ſame ſoule that ſinneth ſhall die.</hi> Hab. 2. 4. <hi>The juſt by his faith (and not by the faith of others) ſhall live.</hi> Gal. 6. 4. 5. <hi>Let
+<pb n="24" facs="tcp:118266:16"/>
+every man prove his own worke, and then ſhall he have rejoycing in himſelfe alone, and not in another, for every man ſhall beare his own burthen.</hi>
+            </p>
+            <p>Fiftly, The Subjects on which Baptiſme is there admini<g ref="char:EOLhyphen"/>ſtred,<note place="margin">5.</note> are Infants, whereas the Scripture holds forth, that Diſciples (or Beleevers) only are to be Baptized.</p>
+            <p>For the Commiſſion of Chriſt was to Baptize only Diſci<g ref="char:EOLhyphen"/>ples, as appeates <hi>Mat.</hi> 28. 19. The words being theſe, <hi>Porenthentes oun matheteuſate panta ta ethne Baptizames</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</note> 
+               <hi>autous,</hi> &amp;c. The Engliſh of which is, Goeing therefore Diſciple yee all Nations, Baptizing them: Now the queſti<g ref="char:EOLhyphen"/>on is, what this word (<hi>Autous</hi>) them, hath relation to, whe<g ref="char:EOLhyphen"/>ther to (<hi>Ethne</hi>) Nations or no, but it is cleare out of the words, that it hath not relation to Nations, but to Diſciples, for the word which is put for <hi>them</hi> in that place, is <hi>Autous</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>not</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and not <hi>Auta,</hi> which it ſhould be, if it had relation to Na<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Therefore out of this place we finde, that Chriſt gave command to the Diſciples, to Diſciple the Nations, or to teach the Nations, that they might become Diſciples, and then to Baptize them, but not to Baptize the Nations, or any perſons therein, before they were made Diſciples. And to this agreeth the very practiſe of Chriſt himſelf and his Diſ<g ref="char:EOLhyphen"/>ciples, for <hi>Ioh.</hi> 3. 22. we read, that <hi>Ieſus and his Diſciples came into the Land of</hi> Judea, <hi>and tarried there, and Baptized.</hi> And who they were that they there <hi>Baptized,</hi> we may ſee in the very next Ch. 1. 2. <hi>ver.</hi> where it is ſaid, <hi>that Jeſus made and Bap<g ref="char:EOLhyphen"/>tized more Diſciples then</hi> John, <hi>though</hi> Jeſus <hi>himſelfe Baptized them not, but his Diſciples Baptized them,</hi> (to wit) the Diſci<g ref="char:EOLhyphen"/>ples or they whom they had by teaching made Diſciples, and what it is to be a Diſciple may be plainely ſeen in <hi>Ioh. 8. 31. Luk.</hi> 14. 16. 27, 33.</p>
+            <p>And this truth is further evidenced from many other Texts, as <hi>Mar.</hi> 16. 15, 16. where Chriſt ſaith to his Diſ<g ref="char:EOLhyphen"/>ciples, <hi>Goe into all the world, preath the Goſpell to every crea<g ref="char:EOLhyphen"/>ture; he that beleeveth and is Baptized, ſhall be ſaved:</hi> and ac<g ref="char:EOLhyphen"/>cordingly, in <hi>Act. 2. 38. Peter</hi> ſaith, (even to the Jewes
+<pb n="25" facs="tcp:118266:16"/>
+and children of Abraham, <hi>Repent and be Baptized every one of you:</hi> (that is) Repent every one of you: <hi>and then be Baptized every one of you.</hi> And afterwards <hi>verſe</hi> 41. it is ſaid, <hi>that as many of them as gladly received the word,</hi> (that is) beleeved, <hi>were Baptized,</hi> and the ſame day there were added of them to the Church, about 3000 ſoules, And in <hi>ver.</hi> it is ſaid, <hi>that all that beleeved were together:</hi> And in <hi>Act.</hi> 8. 37. The Eunuch coming to a certaine water, and demanding of <hi>Philip, what did hinder him that he might not be Baptized?</hi> was anſwered, <hi>if thou beleeveſt with all thy heart thou maieſt:</hi> which implieth, that unleſſe he beleeved, he might not be Baptized.</p>
+            <p>And with all this agreeth that in the Service-booke, be<g ref="char:EOLhyphen"/>fore recited, <hi>That Faith and repentance is required of all per<g ref="char:EOLhyphen"/>ſons to be Baptized.</hi>
+            </p>
+            <p>Now then foraſmuch as Infants cannot have either Faith or Repentance, which is required by the Lord, of all per<g ref="char:EOLhyphen"/>ſons to be Baptized, as is manifeſtly proved by the Scrip<g ref="char:EOLhyphen"/>tures, and alſo granted by the pleaders for the <hi>Baptiſme</hi> of Infants, in the Catechiſme afore recited: It muſt needs be concluded that Infants are no meet Subjects of <hi>Baptiſme,</hi> and ſo by conſequence it muſt needs follow, that the <hi>Baptiſme</hi> of Infants is none of the Lords <hi>Baptiſme.</hi>
+            </p>
+            <p>Object. <hi>But yet after all this, if any ſhall be ſo ignorant as to object, that the Profeſſion of Faith and Repentance made by the Sureties, may give the Infants right to Baptiſme.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſhall anſwere them, That if the profeſſion of Faith and Repentance of the Sureties, can give them a right admiſſion unto <hi>Baptiſme,</hi> then alſo may it give them admiſ<g ref="char:EOLhyphen"/>ſion to eternall life, as they ignorantly in the Catechiſme pre<g ref="char:EOLhyphen"/>tend it doth; for to the queſtion, <hi>Who gave you this name?</hi> The Children are taught to ſay, <hi>My Godfathers and Godmo<g ref="char:EOLhyphen"/>thers in my Baptiſme, wherein I was made a member of Chriſt, a Child of God, and an Inheritor of the Kingdome of Heaven,</hi> but Scripture cited in the former point declares the contrary.</p>
+            <p>Object. <hi>But they will ſay, That the Sureties promiſe, that the Infants ſhall beleeve and repent, and forſake the Divell and
+<pb n="26" facs="tcp:118266:17"/>
+all his works, ſo ſoons as they come to yeares of diſcretion,</hi> Ergo, &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> To this I anſwere, that this is monſtrous and to be abhorred, for it is no leſſe then to cauſe men to aſſume and arrogate to themſelves, the Prerogative of the moſt high, who is the author and finiſher of Faith, the giver of every ſpiritrall gift and ability, by whom we overcome Satan and all his power, and this he giveth to whom hee liſteth, <hi>Ioh.</hi> 3. 8. Seeing then that Faith and Repentance is only from him, and given to, or wrought in whom he liſt<g ref="char:EOLhyphen"/>eth, how dare any to be ſo preſumptuous, as to cauſe any to promiſe that another ſhall beleeve or repent or forſake the Divell and all his works, dare they preſume to cauſe any to undertake that which appertaineth only to the Lord? this argueth therefore great impiouſneſſe, for they by this, either would beare the world in hand, that men can worke Faith and Repentance when and in whom they pleaſe; or elſe that they have the Lord at their beck to performe their wills, or laſt of all, which I rather thinke, that they cauſe that to be promiſed which they regard not, whether ever it be performed or not, for this cauſe let them read <hi>Ec<g ref="char:EOLhyphen"/>cles.</hi> 5. 4. 5.</p>
+            <p>Thus having brought the point to this iſſue, I ſhall now proceed no further therein, having ſaid ſufficient to diſco<g ref="char:EOLhyphen"/>ver the groſſeneſſe of this their only and laſt ſhift: and if any ſhall yet aſſirme, that the Faith and Repentance of others, may give Infants, (which have none of their own) right to <hi>Baptiſme,</hi> they muſt be ſuch, who by their arts and ſophi<g ref="char:EOLhyphen"/>ſtries, can clude any truth, and colourably juſtifie any Error, though never ſo groſſe and abſurd, ſuch as this of regene<g ref="char:EOLhyphen"/>rating Infants by <hi>Baptiſme,</hi> grounded upon the Faith and Repentance of Sureties, is, which though they teach o<g ref="char:EOLhyphen"/>thers thus to beleeve, I cannot judge them to be ſo ignorant as to beleeve it themſelves, for if they did, then muſt I needs admire their great uncharitableneſſe, and the uncharitable<g ref="char:EOLhyphen"/>neſſe of all Chriſtendome (as they call it) this 1600 yeares in that they have not in all this time ſent two beleeving men
+<pb n="27" facs="tcp:118266:17"/>
+and two beleeving women with a Miniſter or Prieſt into all the Heathen and Pagan Countries in the world, to Baptize and Regenerate their Children.</p>
+            <p>Object. If it be objected, <hi>That the Parents being Pagans will was ſuffer them to Baptize their children?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I anſwere, though ſome would not, yet in all likely<g ref="char:EOLhyphen"/>hood many would.</p>
+            <p>Secondly, By their converſe there, in a ſmall time they (no doubt) might have opportunity to Baptize their Chil<g ref="char:EOLhyphen"/>dren without the privity of the Parents.</p>
+            <p>Object. <hi>Although this might be done, yet afterwards, if Chriſtians have not the bringing up of ſuch Children, this laber would be loſt.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Not ſo, ſeeing they are thereby Regenerate, made the members of <hi>Chriſt,</hi> the children of God, and the Inheritors of the Kingdome of Heaven: And ſhall any be ſo wicked as to thinke, that Chriſt would want meanes to ſave his own members, or that God would not finde out meanes to ſave his own Children, God forbid!</p>
+            <p>Now then to conclude all, ſeeing the Baptiſme whereof we treate, is adminiſtred to a falſe end, in a falſe manner, by a falſe power, from a falſe ground, and upon a falſe ſubject, as hath bin proved; then the Baptiſme it ſelfe muſt like<g ref="char:EOLhyphen"/>wiſe be falſe and unlawfull.</p>
+            <p>Again, for the lawfull adminiſtred of every Ordinance of God, there muſt beſome inſtitution of God to warrant the ſame, but there is no inſtitution of God to warrant the ad<g ref="char:EOLhyphen"/>miniſtration of Baptiſme upon Infants, therefore the admi<g ref="char:EOLhyphen"/>niſtration of Baptiſme upon Infants is unlawfull.</p>
+            <p>And againe, that adminiſtration of Baptiſme, which hath no expreſſe command in Scripture and which over<g ref="char:EOLhyphen"/>throwes or prevents that adminiſtration of Baptiſme which is expreſſely commanded in Scripture, is a meer deviſe of mans braine, and no <hi>Baptiſme</hi> of Chriſts: but the admini<g ref="char:EOLhyphen"/>ſtration of <hi>Baptiſme</hi> upon infants hath no expreſſe command in Scripture, and yet it overthrowes of prevents the admi<g ref="char:EOLhyphen"/>niſtration of <hi>Baptiſms</hi> upon Diſciples (or beleevers) which
+<pb n="28" facs="tcp:118266:18"/>
+is expreſſelv commanded in Scripture, <hi>Matth. 28, 19. Mar. 16. 16. Job. 4. 1. 2. Act. 2. 38. &amp; 8. 37.</hi> Therfore the Adminiſtratio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Baptiſme</hi> upon Infants, is a meere de<g ref="char:EOLhyphen"/>vice of mans braine, and no <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apt<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt.</p>
+            <p>Object. If they here object, <hi>that, they hold and maintaine hath the Baptiſme of Beleevers and the Baptiſme of infants alſo, as in the</hi> 27 Articl <hi>of the Doctrine of the Church of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>is expreſſed, and therefore denie that their Baptizing of In<g ref="char:EOLhyphen"/>fants doth prevent the Baptiſme of beleevers, for of any Pagan Tuike or Heathen be converted to the faith, they allow them Baptiſms.</hi>
+            </p>
+            <p>
+               <hi>Anſw,</hi> I anſwere, firſt that it is affirmed by the Spirit of Goe, that there is but one Lord, one faith, one baptiſme, <hi>Eph.</hi> 4. 5. Now if there be but one <hi>Baptiſme,</hi> then either the baptiſme, of beleevers, or the baptiſme of Infants, deſti<g ref="char:EOLhyphen"/>tute or faith, muſt needs be that one true baptiſme, and not both: ſon to affirme, that both is that one true baptiſme, is a <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t contradiction.</p>
+            <p>Secondly, the baptiſme of Infants, as it is by authority ordained in this Kingdome, doth thus farre prevent the bap<g ref="char:EOLhyphen"/>tiz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of beleevers, that hereby no native can be baptized upon <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, ſeeing all are to be baptized in their Infancy, when they are deſtitute of faith: wherefore if all other Kingdomes and Nations did the ſame, then the commande<g ref="char:EOLhyphen"/>ment of Chriſt, for the baptiſme of Diſciples (or beleevers) would be quite prevented and deſtroyed out of the whole world, as well as it is out of this Kingdome.</p>
+            <p>And therefore notwithſtanding this objection, it is ap<g ref="char:EOLhyphen"/>parent, that herein they have (at leaſt ſo far as in them lies) like the Scribes and Phariſees, <hi>Mat.</hi> 15 6. made the com<g ref="char:EOLhyphen"/>mandement of Chriſt of none effect by their owne traditi<g ref="char:EOLhyphen"/>one.</p>
+            <p>And inflany ſhall here object and ſay, the diſcovering of the evill of this forme of baptizing is needleſſe, ſeeing di<g ref="char:EOLhyphen"/>vers perſons ſee it already to be ſo frivolous and naught, that they much diſlike it, and will not have their children bap<g ref="char:EOLhyphen"/>tized with Godfathers, but upon other grounds, namely,
+<pb n="29" facs="tcp:118266:18"/>
+from the Covenant made with beleevers and their children, upon which ground alſo, they of the Separation uſe to bap<g ref="char:EOLhyphen"/>tize their children, wherefore their arguments ſhould have bin likewiſe anſwered.</p>
+            <p>To which I anſwere.</p>
+            <p>1 Although ſome few ſee this forme of baptiſme to be ſin<g ref="char:EOLhyphen"/>full and naught, yet what is this to the reſt of the whole Nation, who yet make conſcience of that Idole to this day?</p>
+            <p>2. Although they of the Separation and ſome others, do mend the matter (as they thinke) in the baptizing of their Children otherwiſe, and upon other grounds, yet what is all this to their own baptiſme, being naught by their own conſeſſion; and anullitie alſo, even from their own grounds: for they grant, that no children ſave only beleevers Chil<g ref="char:EOLhyphen"/>dren, are in the Covenant, or have right to baptiſme; then moſt of themſelves had no right to baptiſme, then moſt of themſelves had no right to baptiſme, their Parents (by their own acknowledgement) being ungodly: whence it will follow, that they themſelves being baptized in their Infancy, had not the baptiſme of Chriſt, and ſo by conſe<g ref="char:EOLhyphen"/>quence are yet unbaptized perſons: thus is their own bap<g ref="char:EOLhyphen"/>tiſme clearely made voyd, even from their own grounds, and how then can their children be now baptiſed in the right of ſuch Parents, who are yet unbaptiſed themſelves?</p>
+            <p>But the grounds which SEPARATISTS and others do urge for the baptiſing of INFANTS, ſhall be fur<g ref="char:EOLhyphen"/>ther examined and anſwered (if God will) in another Treatiſe.</p>
+            <p>And if any ſhall thinke it ſtrange and unlikely, that all the god<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieſt Divines and beſt Churches, ſhould be thus decei<g ref="char:EOLhyphen"/>ved in this point of baptiſme, for ſo many yeares together:</p>
+            <p>Let them conſider that all Chriſtendome (except here and there one, or ſome few, or no conſiderable number) was ſwallowed up in groſſe Popery for many hundred yeares be<g ref="char:EOLhyphen"/>fore <hi>Luthers</hi> time, which was not untill about 100 yeares agone.</p>
+            <p>Let them alſo conſider how long the whole nations of
+<pb n="30" facs="tcp:118266:19"/>
+               <hi>England</hi> and <hi>Scotland</hi> have bin deceived in the point of the Hierarchy untill of late, and yet they now for the moſt part do ſee it to be Antichriſtian and abominable, and why may they not like wiſe be deceived in this point of the <hi>Baptiſme</hi> of Infants, eſpecially ſeeing that the Hierarchy hath asmuch warrant from Scripture as this, and the <hi>Baptiſme</hi> of Infants as little as that?</p>
+            <p>Yea and much leſſe in the judgement of <hi>Biſhop Hall,</hi> who<note place="margin">Epiſc. Jure divino. par. 2. p. 127.</note> in this point expreſſes himſelfe in theſe words, (viz.) <hi>Jam for my part ſo confident of the Divine Inſtitution of the Majority of Biſhops above Preſbyters, that I dare boldly ſay, that there are waighty points of faith which have not ſo ſtrong evidence in holy Scripture,</hi> (and then he inſtanceth in two particulars) <hi>The power by ſacred orders given to the Miniſters alone for the Conſecration and diſtribution of the holy Euchariſt, and the recei<g ref="char:EOLhyphen"/>ving of Infants to holy Baptiſme, which</hi> (ſaith he) <hi>is a matter of ſo high conſequence, that wee juſtly brand the</hi> Catabaptiſts <hi>with Hereſie for denying it, yet let me with good aſſurance ſay, that the evidences of this truth come farre ſhort of that which the Scriptures have afforded us for the ſuperiority of ſome Church Governors over thoſe who otherwiſe indeed, in a ſole reſpect of their Miniſteriall Function, are equall;</hi> and then he ſhuts up the point in theſe very words, (<hi>viz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.) He therefore that would upon pretence of want of Scriptures quarrell at the Divine inſtitu<g ref="char:EOLhyphen"/>tion of Biſhops, might with much better colour cavell at theſe bleſſed Ordinances of God.</hi>
+            </p>
+            <p>And after in an other booke he challengeth his oppoſites to try their skill by entring into a ſerious conteſtation with<note place="margin">Anſw. to Smectym<g ref="char:EOLhyphen"/>nuus, pa. 98.</note> him, to ſee if they could produce more clearer evidence from Scripture for the <hi>Baptizing</hi> of Infants, then he could for the Hierarchie; which challenge of his may eaſily be main<g ref="char:EOLhyphen"/>tained, for indeed and in truth the Scripture ownes neither of them.</p>
+            <p>And as one of note not long ſince in defence of the Hierar<g ref="char:EOLhyphen"/>thy, <hi>&amp;c.</hi> alledging altogether hymane authority, and being urged by me either to make good his poſition by Scripture or elſe to ſay nothing, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e replyed to me thus, If you will be<g ref="char:EOLhyphen"/>leeve
+<pb n="31" facs="tcp:118266:19"/>
+nothing in Religion but what may be proved by Scripture, then muſt you renounce your Chriſtendome, and turne Turke, for you cannot prove your own Baptiſme, not the baptiſme of Infants by Scripture, wherein the man ſpake nothing but reaſon, for if I will beleeve one point in Divini<g ref="char:EOLhyphen"/>ty upon the authority of m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, or tradition of the Church, why not another, and another, and ſo to multiply them be<g ref="char:EOLhyphen"/>yond number upon one and the ſame reaſon and authority.</p>
+            <p>3. And let them likewiſe conſider, that there is no mar<g ref="char:EOLhyphen"/>vaile at all in this, ſeeing there is nothing, nor more herein then was foretold by the Spirit of God, ſhould come to paſſe in the world (<hi>vizt.</hi>) That men ſhould depart from the Faith, and give heed to the Spirit of error. 2 <hi>Theſſa. 2. 3. 1 Tim.</hi> 4. 1. That all the world ſhould wonder, follow af<g ref="char:EOLhyphen"/>ter, and worſhip the Beaſt, <hi>Rev.</hi> 13. 3. 4. 15, 16. And that the Inhabitants of the earth ſhould be made drunke with the wine of the fornication of the whore, <hi>Rev.</hi> 17. 2. And in no place it is told us of any one Nation that ſhould cleave to the truth, before the calling of the <hi>Iewes,</hi> but that untill then, this only was, and is to be looked for, that all that will live Godly in Jeſus Chriſt, muſt ſuffer perſecution, 2. <hi>Tim.</hi> 3. 12. be brought before Kings and Rulers, yea to the loſſe of their liberties and lives for his cauſe and truth, <hi>Mat.</hi> 10. 17, 18. &amp; 24, 9. And that all the riſe of all our glory and happineſſe in the world to come, is from our be<g ref="char:EOLhyphen"/>ing made conformable to him in his death and ſufferings in this world, <hi>Mat. 5. 11, 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Lu<g ref="char:punc">▪</g> 6. 22, 23. Phil. 3, 10. 2 Tim.</hi> 2. 12.</p>
+            <p>And if any ſhall thinke, that any of the Expreſſions con<g ref="char:EOLhyphen"/>cerning the Miniſtry in this Treatiſe, be too harſh, ſeeing many in that Office are Godly and worthy men:</p>
+            <p n="1">1. Let them know, that I eſteeme not leſſe of divers of them, their worth and honeſty, being well known to me; yet never the leſſe, the Office and miniſtry which theſe men have, is no whit the truer for their worth or honeſty, for the honeſty of a man in a falſe Office cannot make the Office any truer or lawfuller then it is in it ſelfe.</p>
+            <p n="2">
+               <pb n="32" facs="tcp:118266:20"/>2. Let them alſo conſider, that I ſpeake not againſt any goodneſſe in any man, but againſt the evill, and againſt the unlawfulneſſe of the Office wherein he is; for this being de<g ref="char:EOLhyphen"/>rived from one and the ſame power, in one and the ſame manner, to one and the ſame end unto them all, muſt needs be one and the ſame Office, and no better or lawfuller then the power from whence it is derived, for no man can convey unto another, any better or truer right or power then he hath in himſelfe: beſides, if I ſhould ſpeake evill of the vertues of any man in that Office, for that Office ſake, I ſhould then be as fooliſhly ignorant, and as liable to the curſe of God, as he is that ſpeakes good of that Office being evill, for the goodneſſe or ſake of the man in that office, for both theſe are abhominable and alike accurſed in the ſight of God, <hi>Iſa.</hi> 5. 12.</p>
+            <p n="3">3. Let them likewiſe conſider, that if the Godlieſt and beſt Miniſter upon Earth were made Arch-<hi>Biſhop</hi> of <hi>Canterbury</hi> or <hi>Yorke,</hi> yet that Office would ſtill be the ſame, and as bad as before, and in ſome reſpects far worſe, then if a worſe man had it, for an evill Office gets credit by the goodneſſe of the man in it, and thereby deceives and keepes the people in blindneſſe and error the more, and puts them the further off from ſeeing their ſinfulneſſe in ſubmitting to it. And hence is the proverbe verified, (<hi>viz.) The better the man, the worſe the Biſhop:</hi> the very ſame is the caſe of the Miniſtry and Prieſthood here treated of.</p>
+            <epigraph>
+               <q>
+                  <bibl>Jer. 23 11.</bibl> Both Prophet and Prleſt do wickedly: yea, in my Houſe have I found their wickedneſſe, ſaith the Lord.</q>
+               <q>
+                  <bibl>Jer. 5. 31.</bibl> The Prophets prophecy lies, and the Prieſts beare rule by their meanes, and my people love to have it ſo.</q>
+               <q>
+                  <bibl>2 Theſſ 2. 11. 12.</bibl> Wherefore God ſhall ſend them ſtrong deluſions that they ſhould beleeve lies, that they all might be damned who beleeve not the truth.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:118266:20"/>
+            <head>ERRATA.</head>
+            <p>PAg 8. line 23, <hi>for</hi> apecteatheſan <hi>read</hi> apectantheſan, <hi>and for</hi> romira<g ref="char:EOLhyphen"/>ja, <hi>read</hi> romphaja. <hi>and</hi> line 35. for ebaaptiſthe, <hi>read</hi> ebaptiſthe.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
